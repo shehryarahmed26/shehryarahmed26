@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryarahmed26&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarahmed26" /> </p>
 
-- 🌱 I’m currently learning **javascript | React.js | Typescript**
+- 🌱 Currently Learning: MERN Stack (MongoDB, Express.js, React, Node.js)
+
+- 🎓 Education: Saylani SMIT
+  
+- 💼 Projects: Working on various projects to apply my knowledge in real-world scenarios
+  
+- 🌐 Interests: Web development, open-source contributions, and continuous learning
 
 - 💬 Ask me about **Html5 | Css3 | Bootsrap | Javascript**
 
