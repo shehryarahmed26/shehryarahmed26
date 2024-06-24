@@ -1,17 +1,15 @@
 <h2 align="center">💻 Emerging Full-Stack Developer | Innovating with MERN Stack </h2>
-<h3 align="center">A passionate and dedicated web developer currently honing my skills with the MERN stack at Saylani SMIT. With a solid foundation in HTML, CSS, and JavaScript, I'm excited to expand my expertise and build dynamic, full-stack web applications.</h3>
+<h3 align="center">A passionate and dedicated web developer currently honing my skills with the MERN stack. With a solid foundation in HTML, CSS, and JavaScript, I'm excited to expand my expertise and build dynamic, full-stack web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryarahmed26&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarahmed26" /> </p>
 
 - 🌱 Currently Learning: MERN Stack (MongoDB, Express.js, React, Node.js)
-
-- 🎓 Education: Saylani SMIT
   
 - 💼 Projects: Working on various projects to apply my knowledge in real-world scenarios
   
 - 🌐 Interests: Web development, open-source contributions, and continuous learning
 
-- 💬 Ask me about **Html5 | Css3 | Bootsrap | Javascript**
+- 💬 Ask me about **Html5 | Css3 | Bootstrap | Javascript**
 
 - 📫 How to reach me **shehryarahmed268@gmail.com**
 
