@@ -9,7 +9,7 @@
   
 - 🌐 Interests: Web development, open-source contributions, and continuous learning
 
-- 💬 Ask me about **Html5 | Css3 | Bootstrap | Javascript**
+- 💬 Ask me about **Javascript | Typescript | react.js | **
 
 - 📫 How to reach me **shehryarahmed268@gmail.com**
 
