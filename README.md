@@ -7,7 +7,7 @@
   
 - 💼 Projects: Working on various projects to apply my knowledge in real-world scenarios
   
-- 🌐 Interests: Web development, open-source contributions, and continuous learning
+- 🌐 Interests: Web development, open-source contributions, and continuous learning 
 
 - 💬 Ask me about **Javascript | Typescript | react.js | **
 
