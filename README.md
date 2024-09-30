@@ -19,8 +19,12 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/shehryar26/" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
+	<a href="https://twitter/shehryardev" target="blank" style="padding:8px"><img align="center"
+			src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" /></a>
 	<a href="https://instagram.com/shehryr__rrr" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="shehza.d" height="50" width="50" /></a> 
+			src="https://skillicons.dev/icons?i=twitter" alt="shehza.d" height="50" width="50" /></a>
+	<a href="https://discord.com/shehryar26" target="blank" style="padding:8px"><img align="center"
+			src="https://skillicons.dev/icons?i=discord" alt="shehza.d" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
