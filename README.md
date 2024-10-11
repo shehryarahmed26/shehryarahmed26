@@ -1,4 +1,4 @@
-<h2 align="center">💻 Emerging Full-Stack Developer | Innovating with MERN Stack </h2>
+<h2 align="center">💻 Emerging Full-Stack Developer | Innovating with MERN Stack </h2> 
 <p align="center"><a href="https://shehryarahmed.vercel.app">My Personal Portfolio</a></p>   
 <h3 align="center">A passionate and dedicated web developer currently honing my skills with the MERN stack. With a solid foundation in Javascript, Reactjs, and Firebase, I'm excited to expand my expertise and build dynamic, full-stack web applications.</h3>
 
