@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryarahmed26&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarahmed26" /> </p>
 
-- 🌱 Currently Learning: MERN Stack (MongoDB, Express.js, React, Node.js)
+- 🌱 Currently Learning: (React Native, Node, Express)
   
 - 💼 Projects: Working on various projects to apply my knowledge in real-world scenarios
   
 - 🌐 Interests: Web development, open-source contributions, and continuous learning 
 
-- 💬 Ask me about **Javascript | Typescript | react.js | **
+- 💬 Ask me about **Javascript | React.JS | Next.js | React Native **
 
 - 📫 How to reach me **shehryarahmed268@gmail.com**
 
