@@ -1,6 +1,6 @@
 <h2 align="center">💻 Emerging Full-Stack Developer | Innovating with MERN Stack </h2> 
 <p align="center"><a href="https://shehryarahmed.vercel.app">My Personal Portfolio</a></p>   
-<h3 align="center">A passionate and dedicated web developer currently honing my skills with the MERN stack. With a solid foundation in Javascript, Reactjs, and Firebase, I'm excited to expand my expertise and build dynamic, full-stack web applications.</h3>
+<h3 align="center">A passionate and dedicated Full Stack Developer honing my skills with the MERN stack. With a solid foundation in Javascript, React, Next, and React Native I'm excited to expand my expertise and build dynamic, full-stack web and mobile applications.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryarahmed26&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarahmed26" /> </p>
