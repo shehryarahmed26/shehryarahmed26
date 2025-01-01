@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryarahmed26&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarahmed26" /> </p>
 
-- 🌱 Currently Learning: (React Native, Node, Express)
+- 🌱 Currently Learning: (PostgreSql, Graphql)
   
 - 💼 Projects: Working on various projects to apply my knowledge in real-world scenarios
   
