@@ -1,19 +1,19 @@
-<h2 align="center">💻 Emerging Full-Stack Developer | Innovating with MERN Stack </h2>
+<h2 align="center">💻 Emerging Full-Stack Developer </h2>
 <p align="center"><a href="https://shehryarahmed.vercel.app">My Personal Portfolio</a></p> 
-<h3 align="center">A passionate and dedicated Full Stack Developer honing my skills with the MERN stack. With a solid foundation in Javascript, React, Next, and React Native I'm excited to expand my expertise and build dynamic, full-stack web and mobile applications.</h3>
+<h3 align="center">A passionate and dedicated Full Stack Developer honing my skills with the Full stack. With a solid foundation in Frontend & Backend I'm excited to expand my expertise and build dynamic, full-stack web and mobile applications.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehryarahmed26&label=Profile%20views&color=0e75b6&style=flat" alt="shehryarahmed26" /> </p>
 
-- 🌱 Currently Learning: (PostgreSql, Graphql, docker, devops)
+- 🌱 Currently Learning: (Nest.JS, PostgreSql, Devops)
   
-- 💼 Projects: Working on various projects to apply my knowledge in real-world scenarios
+- 🧩 **Recent Projects**: Scalable SaaS apps, Real Estate platform, Game platform, and QR code systems  
   
-- 🌐 Interests: Web development, open-source contributions, and continuous learning 
+- 🌍 **Focus Areas**: Full-stack product development, performance optimization, and cloud deployment  
 
-- 💬 Ask me about **Javascript | React.JS | Next.js | React Native **
+- 💬 **Ask me about** **Javascript | TypeScript | React.JS | Next.js | Express.Js | React Native **
 
-- 📫 How to reach me **shehryarahmed268@gmail.com**
+- 📫 **How to reach me** **shehryarahmed268@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
