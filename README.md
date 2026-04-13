@@ -88,9 +88,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shehryar26/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-  <a href="https://twitter.com/shehryardev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter" /></a>
-  <a href="https://instagram.com/shehryr__rrr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="50" width="50" alt="instagram" /></a>
-  <a href="https://discord.com/shehryar26" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="50" width="50" alt="discord" /></a>
   <a href="mailto:shehryarahmed268@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" alt="email" /></a>
 </p>
 
