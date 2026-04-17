@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  Full-Stack Engineer with 5+ years of experience architecting and shipping scalable web & mobile applications. 
-  Specialized in building high-performance SaaS platforms, real-time systems, and cloud-native solutions 
-  that serve thousands of users. Passionate about clean architecture, developer experience, and turning 
+  Full-Stack Engineer with 5+ years of experience architecting and shipping scalable web & mobile applications.
+  Specialized in building high-performance SaaS platforms, real-time systems, and cloud-native solutions
+  that serve thousands of users. Passionate about clean architecture, developer experience, and turning
   complex problems into elegant products.
 </p>
 
@@ -67,6 +67,22 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehryarahmed26&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehryarahmed26&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shehryarahmed26&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehryarahmed26&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
 
 ### 🌐 Let's Connect
 
